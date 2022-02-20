@@ -42,7 +42,6 @@ public class Review implements Serializable {
 		this.movie = movie;
 	}
 
-
 	public Long getId() {
 		return id;
 	}
